@@ -27,6 +27,6 @@ Following professional software engineering standards, the repository isolates t
 
 ```text
 ├── src/
-│   └── interpreter.py     # The complete, unified Python engine (Parser & Evaluator)
+│   └── interprete_permutazioni.py     # The complete, unified Python engine (Parser & Evaluator)
 └── docs/
-    └── documentation.pdf  # Full academic and technical documentation report
+    └── Documentazione_progetto_LPL.pdf  # Full academic and technical documentation report
